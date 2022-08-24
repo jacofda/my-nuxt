@@ -1,0 +1,132 @@
+{
+    "dogBreeds": [{
+        "id": 1,
+        "slug": "labrador-retriever",
+        "breed": "Labrador Retriever",
+        "breedType": "Purebred",
+        "origin": "Canada,USA",
+        "popularity": "1",
+        "temperament": ["Cheerful", "Gentle", "Friendly", "Intelligent"],
+        "hypoallergenic": "No",
+        "intelligence": 7,
+        "photo": "https://images.dog.ceo/breeds/labrador/n02099712_1436.jpg"
+    }, {
+        "id": 2,
+        "slug": "german-shepard",        
+        "breed": "German Shepard",
+        "breedType": "Purebred",
+        "origin": "Germany",
+        "popularity": "2",
+        "temperament": ["Corageous", "Intelligent", "Loyal", "Watchful"],
+        "hypoallergenic": "No",
+        "intelligence": 3,
+        "photo": "https://images.dog.ceo/breeds/germanshepherd/n02106662_2753.jpg"
+    }, {
+        "id": 3,
+        "slug": "german-shepard",  
+        "breed": "Golden Retriever",
+        "breedType": "Purebred",
+        "origin": "United Kingdom",
+        "popularity": "3",
+        "temperament": ["Intelligent", "Kind", "Friendly", "Confident"],
+        "hypoallergenic": "No",
+        "intelligence": 4,
+        "photo": "https://images.dog.ceo/breeds/retriever-golden/n02099601_6980.jpg"
+    }, {
+        "id": 4,
+        "slug": "french-bulldog",          
+        "breed": "French Bulldog",
+        "breedType": "Purebred",
+        "origin": "France, UK",
+        "popularity": "4",
+        "temperament": ["Playful", "Sociable", "Friendly", "Lively", "Patient"],
+        "hypoallergenic": "No",
+        "intelligence": 58,
+        "photo": "https://learnwebcode.github.io/json-example/images/cat-2.jpg"
+
+    }, {
+        "id": 5,
+        "slug": "bulldog",           
+        "breed": "Bulldog",
+        "breedType": "Purebred",
+        "origin": "United Kingdom",
+        "popularity": "5",
+        "temperament": ["Friendly", "Docile", "Willful", "Gregarious"],
+        "hypoallergenic": "No",
+        "intelligence": 77,
+        "photo": "https://images.dog.ceo/breeds/mastiff-bull/n02108422_1939.jpg"
+
+    }, {
+        "id": 6,
+        "slug": "beagle",             
+        "breed": "Beagle",
+        "breedType": "Purebred",
+        "origin": "United Kingdom",
+        "popularity": "6",
+        "temperament": ["Gentle", "Intelligent", "Even Tempered", "Determined"],
+        "hypoallergenic": "No",
+        "intelligence": 72,
+        "photo": "https://images.dog.ceo/breeds/beagle/n02088364_16635.jpg"
+
+    }, {
+        "id": 7,
+        "slug": "poodle",         
+        "breed": "Poodle",
+        "breedType": "Purebred",
+        "origin": "Germany, France",
+        "popularity": "7",
+        "temperament": ["Intelligent", "Faithful", "Trainable", "Instinctual"],
+        "hypoallergenic": "Yes",
+        "intelligence": 2,
+        "photo": "https://images.dog.ceo/breeds/poodle-standard/n02113799_4458.jpg"
+
+    }, {
+        "id": 8,
+        "slug": "rottweiler",           
+        "breed": "Rottweiler",
+        "breedType": "Purebred",
+        "origin": "Germany",
+        "popularity": "8",
+        "temperament": ["Intelligent", "Corageous", "Fearless", "Confident"],
+        "hypoallergenic": "No",
+        "intelligence": 9,
+        "photo": "https://images.dog.ceo/breeds/rottweiler/n02106550_895.jpg"
+
+    }, {
+        "id": 9,
+        "slug": "german-shorthaired-pointer",  
+        "breed": "German Shorthaired Pointer",
+        "breedType": "Purebred",
+        "origin": "Germany",
+        "popularity": "9",
+        "temperament": ["Intelligent", "Trainable", "Boisterous", "Cooperative"],
+        "hypoallergenic": "No",
+        "intelligence": 9,
+        "photo": "https://images.dog.ceo/breeds/pointer-german/n02100236_3259.jpg"
+
+    }, {
+        "id": 10,
+        "slug": "yorkshire-terrier",          
+        "breed": "Yorkshire Terrier",
+        "breedType": "Purebred",
+        "origin": "United Kingdom",
+        "popularity": "10",
+        "temperament": ["Independent", "Intelligent", "Corageous", "Confident"],
+        "hypoallergenic": "Yes",
+        "intelligence": 27,
+        "photo": "https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_2457.jpg"
+
+    }, {
+        "id": 11,
+        "slug": "boxer",          
+        "breed": "Boxer",
+        "breedType": "Purebred",
+        "origin": "Germany",
+        "popularity": "11",
+        "temperament": ["Playful", "Friendly", "Devoted", "Loyal"],
+        "hypoallergenic": "No",
+        "intelligence": 48,
+        "photo": "https://images.dog.ceo/breeds/boxer/n02108089_2953.jpg"
+
+    }]
+}
